@@ -31,7 +31,7 @@
 # }
 
 def naming_system
-  naming_system = {:kingdom => {:phylum => {:class =>
+  naming_system = {kingdom = {:sub_category => :phylum = {:class =>
   # Remember:
   #  Kingdom
   #  Phylum
